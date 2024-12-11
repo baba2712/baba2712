@@ -1,12 +1,3 @@
-## It takes time for Google to index and rank pages. You can check if your profile is indexed by searching:
-
-##
-
-
-
-bash
-
-￼Copy code
 
 ## Welcome to My GitHub Profile 👋
 
