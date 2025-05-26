@@ -9,16 +9,6 @@ I'm glad you're here! Below, you'll find insights into my academic journey, tech
 - 🚀 **Professional Goals**: Sharpening technical skills to contribute to high-impact projects and hackathons.
 - 📚 **Lifelong Learner**: Committed to continuous learning and exploration of emerging technologies.
 
-## 📚 Areas of Focus
-
-- 🔧 **PCB Design**: Developing expertise in printed circuit board (PCB) design to support hands-on projects and competitions.
-- 🔧 **IoT & Embedded Systems**: Exploring the development of IoT solutions using Raspberry Pi, ESP32, and other embedded platforms.
-- 🌐 **Programming & Problem Solving**: Enhancing proficiency in C/C++, Python, and other languages with a focus on robotics and machine learning applications.
-
-## 🔄 Current Projects
-
-- 📝 **Baba Notes**: A personal GitHub-hosted journal for tracking project timelines, ideas, and ongoing development activities.
-- 🌐 **R.A.N.G.E.R**: Designing, building, and deploying a fully functional on-campus weather station to collect and analyze meteorological data.
 
 ## 🙋‍♂️ Get in Touch
 
